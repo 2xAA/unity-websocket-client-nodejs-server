@@ -5,8 +5,9 @@
   "main": "index.js",
   "author": "Sam Wray",
   "license": "MIT",
-  "private": null,
+  "private": false,
   "dependencies": {
+    "readline": "^1.3.0",
     "ws": "^7.2.1"
   }
 }
