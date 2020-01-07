@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Small websocket server to test unity shizz",
   "main": "index.js",
-  "author": "publicis•poke",
+  "author": "Sam Wray",
   "license": "MIT",
   "private": null,
   "dependencies": {
