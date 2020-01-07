@@ -1,0 +1,12 @@
+{
+  "name": "unity-websocket-server-test",
+  "version": "1.0.0",
+  "description": "Small websocket server to test unity shizz",
+  "main": "index.js",
+  "author": "publicis•poke",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "ws": "^7.2.1"
+  }
+}
